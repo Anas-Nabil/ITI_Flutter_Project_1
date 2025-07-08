@@ -1,0 +1,86 @@
+        body{
+            margin:auto;
+            font-family:cursive;
+            background-color: rgb(231, 224, 210);
+
+        }
+        .nav {
+         font-size: 20px; 
+         
+         
+        }
+        .nav a {
+          text-decoration: none;
+          color: white;
+          padding: 10px;
+          margin-right: 0px;
+          margin-top:10px;
+          border-radius: 5px;
+        }
+          .nav a:hover {
+          background-color: #052b53; 
+          color: white;
+            
+        }
+        .header {
+                background: linear-gradient(
+                to bottom,
+                #000000,   
+                #000c1a,   
+                #001f3f,   
+                #003366,   
+                #004080      
+            );
+            padding-bottom: 180px;
+            padding-top: 30px;
+            padding-left: 20px;
+            padding-right: 0px;
+            margin-top:zero;
+        }
+        .p_header {
+            text-align: center;
+            color: white;
+            font-size: 60px;
+            margin-top: 120px;
+        }
+        h1 {
+            color: #052b53;
+            font-size: 40px;
+            margin-top: 50px;
+            margin-left:10px;
+        }
+
+        .about {
+          font-size: 25px;
+          margin-bottom: 50px;
+          margin-left: 10px;
+        }
+        .skills {
+          font-size: 25px;
+          margin-bottom: 50px;
+          margin-left: 10px;
+      }
+       .experience {
+          font-size: 25px;
+          margin-bottom: 50px;
+            margin-left: 10px;
+      }
+      .projects {
+          font-size: 25px;
+          margin-bottom: 50px;
+          margin-left: 10px;
+          
+      }
+      
+      .contact {
+          font-size: 25px;
+          margin-bottom: 50px;
+          margin-left: 10px;
+      }
+
+      footer {
+          color: #052b53;
+          text-align: center;
+          padding: 5px;
+          bottom: 0;
+      }
