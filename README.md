@@ -58,6 +58,9 @@ Built a convolutional neural network for image classification, recognizing compl
 
 Feel free to reach out if you’d like to collaborate or learn more about my work!
 
+---------------------------------------------------------------------------------------------------------------
+
+. Portfolio Screenshot
 
 
 ![Portfolio Screenshot](https://github.com/user-attachments/assets/b5ac9b08-7a7a-456c-a8b2-2a33ba4fd3f5)
